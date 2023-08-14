@@ -1,0 +1,13 @@
+drill-down
+
+box-and-whisker plot
+
+scatter plots
+
+brushing-and-linking
+
+Dorling cartogram
+
+Reingold-Tilford algorithm
+
+arcs or bars
